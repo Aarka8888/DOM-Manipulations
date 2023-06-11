@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@300;600;700&family=DM+Serif+Text:ital@1&family=Lato&family=Lobster&family=PT+Sans+Narrow:wght@700&family=Playfair+Display&family=Poppins:ital,wght@0,200;0,300;0,400;0,600;1,500;1,700&family=Raleway&family=Roboto+Mono:ital@1&display=swap');
+
+
+*{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:beige
+}
+
+.btn{
+    padding: 45px 53px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    background: var(--color);
+    cursor: pointer;
+    border-radius: 20px;
+}
+.boxes.btn{
+    border-radius: 10px;
+    height: 100px;
+    cursor: pointer;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.btn-1 {background-color:yellow;}
+.btn-2 {background-color:green;}
+.btn-3 {background-color:blue;}
+.btn-4 {background-color:red;}
+.btn-5 {background-color:olive;}
+.btn-6 {background-color:orange;}
+.btn-7 {background-color:brown;}
+.btn-8 {background-color:purple;}
+.btn-9 {background-color:white;}
+.btn-10{background-color:FUCHSIA;}
+.btn-11{background-color:coral;}
+.btn-12{background-color:cyan;}
+
+
+.big{
+    border: 2px solid black;
+    width: 900px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 60px;
+    text-align: center;
+    margin-right: 220px;
+}
+
+.choose{
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+    
+
+     
+  }
+
+
+ 
